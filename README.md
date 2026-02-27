@@ -1,47 +1,35 @@
- 🛒 ShopLite POS System
+👋 Hi, I'm Brian Omusugu
 
-A lightweight Point of Sale (POS) system built with Core Java and MySQL,
-designed for small businesses that need an affordable inventory and sales management solution.
+Backend-focused developer with strong foundations in Core Java, OOP, and relational databases.  
+I build secure, practical systems that solve real-world business problems.
 
+ 🚀 What I Do
 
-🚀 Features
+- Design and build backend systems using Java  
+- Implement secure authentication (BCrypt hashing)  
+- Work with MySQL using JDBC  
+- Apply clean architecture principles (DAO pattern, layered structure)  
+- Build role-based systems with proper access control  
 
-🔐 Role-Based Access
-- Admin: Add items, update price & stock, search inventory  
-- Cashier: View items and process sales (auto stock reduction)
+ 🛠 Tech Stack
 
-🗄️ Inventory Management
-- Real-time stock updates  
-- Item search functionality  
+Languages: Java, SQL, JavaScript  
+Database: MySQL  
+Backend Concepts: OOP, JDBC, CRUD Operations, Constraints, Authentication  
+Tools: Git, NetBeans  
 
-🔒 Security
-- Password hashing using BCrypt  
-- Input validation  
-- Role-based authorization 
+📌 Featured Project
 
-🛠 Tech Stack
+🛒 ShopLite POS System
+A role-based Point of Sale system built with Core Java and MySQL.  
+Includes inventory management, secure login, stock tracking, and sales processing.
 
-- Java (OOP Principles)
-- JDBC
-- MySQL
-- BCrypt (Password Hashing)
-- Console-based UI
+🎯 Current Focus
 
- 🏗 Architecture
+- Advancing backend architecture skills  
+- Expanding into web-based frontend integration  
+- Building production-ready full-stack systems  
 
-- Presentation Layer (Console)
-- Business Logic Layer
-- DAO Layer (Database Access)
-- Relational Database (MySQL)
+ 📫 Contact
 
-💡 Purpose
-
-This project demonstrates backend development skills, secure authentication, 
-database integration, and role-based system design using pure Core Java.
-
----
-
-👨‍💻 Author
-
-Brian Omusugu  
-Backend Developer | Java Enthusiast
+Open to internships, junior backend roles, and collaboration opportunities.
